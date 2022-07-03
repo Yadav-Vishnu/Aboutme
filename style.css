@@ -211,139 +211,74 @@ a {
 
 
 /* Utility calsses */
-.tw{
-  color: white;
-}
- .music{
+.music,.walk,.Robot,.code,.iot,.contest,.cord,.mail,.link,.git,.musical-chair,.throw{
   background-position: center;
   background-repeat: no-repeat;
   background-size:cover;
   background-attachment: fixed;
-  background-image: url('music.jpg');
   color: white;
   display: flex;
   align-items: center;
+}
+ .music{
+  
+  background-image: url('music.jpg');
 
 }
  .walk{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
+  
   background-image: url('walk.jpg');
-  color: white;
-  display: flex;
-  align-items: center;
 
 }
  .Robot{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
+ 
+  
   background-image: url('Robot.jpg');
-  color: white;
-  display: flex;
-  align-items: center;
 
 }
  .code{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
+ 
   background-image: url('code.jpg');
-  color: white;
-  display: flex;
-  align-items: center;
 
 }
  .iot{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
+  
   background-image: url('iot.jpg');
-  color: white;
-  display: flex;
-  align-items: center;
 
 }
  .contest{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
+ 
   background-image: url('cordinator.png');
-  color: white;
-  display: flex;
-  align-items: center;
 
 }
  .cord{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
+ 
   background-image: url('istock.jpg');
-  color: white;
-  display: flex;
-  align-items: center;
 
 }
  .mail{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
+  
   background-image: url('email.jpg');
-  color: white;
-  display: flex;
-  align-items: center;
 
 }
  .git{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
+  
   background-image: url('git.jpg');
-  color: white;
-  display: flex;
-  align-items: center;
 
 }
  .link{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
+  
   background-image: url('link.jpg');
-  color: white;
-  display: flex;
-  align-items: center;
 
 }
  .musical-chair{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
+ 
   background-image: url('cgame.jpg');
-  color: white;
-  display: flex;
-  align-items: center;
 
 }
  .throw{
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size:cover;
-  background-attachment: fixed;
+ 
   background-image: url('wgame.jpg');
-  color: white;
-  display: flex;
-  align-items: center;
 
 }
 
